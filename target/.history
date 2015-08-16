@@ -1,0 +1,11 @@
+run
+compile
+sbt clean compile package
+clean compile package
+compile package
+clean
+comile
+compile
+compile package
+sbt clean compile package
+compile package
